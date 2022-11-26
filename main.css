@@ -1,0 +1,36 @@
+body 
+        {
+            background-color: rgba(237, 28, 63, 0.978);
+            background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/420110/7f623ee3f773bc93bc8422d3f1af9cd0aa441be0.jpg");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+h1 {
+    color: rgb(106, 226, 134);font-size: 500%;
+    text-align: center;
+    width: 100%;
+}
+
+h2 {
+    color: rgb(106, 226, 134);font-size: 500%;
+    text-align: center;
+    width: 100%;
+    font-size: 300%;
+}
+
+a {
+    color: rgb(95, 251, 108);
+    text-decoration: none;
+    margin-bottom: 3%;
+    margin-left: 45%;
+    width: 100%;
+    font-size: 225%;
+    font-family: serif;
+}
+
+a:hover{
+    color: blue;
+}
